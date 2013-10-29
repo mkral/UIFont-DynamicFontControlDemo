@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "UIFont+DynamicFontControl.h"
+
 @interface MLKViewController : UIViewController
 
 @end

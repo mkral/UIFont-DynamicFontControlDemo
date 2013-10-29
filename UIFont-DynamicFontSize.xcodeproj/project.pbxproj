@@ -21,6 +21,7 @@
 		B99E0755181F3FF600D06E40 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99E0737181F3FF600D06E40 /* UIKit.framework */; };
 		B99E075D181F3FF600D06E40 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B99E075B181F3FF600D06E40 /* InfoPlist.strings */; };
 		B99E075F181F3FF600D06E40 /* UIFont_DynamicFontSizeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E075E181F3FF600D06E40 /* UIFont_DynamicFontSizeTests.m */; };
+		B99E076A181F401200D06E40 /* UIFont+DynamicFontControl.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0769181F401200D06E40 /* UIFont+DynamicFontControl.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		B99E075A181F3FF600D06E40 /* UIFont-DynamicFontSizeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIFont-DynamicFontSizeTests-Info.plist"; sourceTree = "<group>"; };
 		B99E075C181F3FF600D06E40 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B99E075E181F3FF600D06E40 /* UIFont_DynamicFontSizeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIFont_DynamicFontSizeTests.m; sourceTree = "<group>"; };
+		B99E0768181F401200D06E40 /* UIFont+DynamicFontControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIFont+DynamicFontControl.h"; sourceTree = "<group>"; };
+		B99E0769181F401200D06E40 /* UIFont+DynamicFontControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIFont+DynamicFontControl.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				B99E0749181F3FF600D06E40 /* MLKViewController.m */,
 				B99E074B181F3FF600D06E40 /* Images.xcassets */,
 				B99E073A181F3FF600D06E40 /* Supporting Files */,
+				B99E0768181F401200D06E40 /* UIFont+DynamicFontControl.h */,
+				B99E0769181F401200D06E40 /* UIFont+DynamicFontControl.m */,
 			);
 			path = "UIFont-DynamicFontSize";
 			sourceTree = "<group>";
@@ -253,6 +258,7 @@
 				B99E0740181F3FF600D06E40 /* main.m in Sources */,
 				B99E074A181F3FF600D06E40 /* MLKViewController.m in Sources */,
 				B99E0744181F3FF600D06E40 /* MLKAppDelegate.m in Sources */,
+				B99E076A181F401200D06E40 /* UIFont+DynamicFontControl.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
