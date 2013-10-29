@@ -1,7 +1,7 @@
 UIFont-DynamicFontSize
 ======================
 
-This category is meant to help with using the Dynamic Text sizes introduced in iOS7. You can use your own font and scale the size of the font.
+This category is meant to help with using the Dynamic Text sizes introduced in iOS7. I have put in checks to make sure user is running iOS7 or I just return the normal UIFont. You can use your own font and scale the size of the font.
 
 
 Install Via Cocoapods:
