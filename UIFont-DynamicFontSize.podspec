@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
     :git => 'git@github.com:mkral/UIFont-DynamicFontSize.git',
     :tag => '0.1'
   }
-  s.source_files = '*/UIFont%2BDynamicFontControl.h,UIFont%2BDynamicFontControl.m'
+  s.source_files = 'UIFont+DynamicFontControl/*.{h,m}’
 end
