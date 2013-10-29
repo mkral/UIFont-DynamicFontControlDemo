@@ -27,7 +27,7 @@
     UIFont * dynamicFont = [UIFont preferredFontForTextStyle:UIFontTextStyleBody withFontName:@"AmericanTypewriter"];
     NSString * dynamicText = @"AmericanTypewriter Dynamic Text";
     
-    UIFont * scaledDynamicFont = [UIFont preferredFontForTextStyle:UIFontTextStyleBody withFontName:@"AmericanTypewriter" scale:1.5];
+    UIFont * scaledDynamicFont = [UIFont preferredFontForTextStyle:UIFontTextStyleHeadline withFontName:@"AmericanTypewriter" scale:1.5];
     
     NSString * scaledDynamicText = @"Scaled AmericanTypewriter Dynamic Text";
     
