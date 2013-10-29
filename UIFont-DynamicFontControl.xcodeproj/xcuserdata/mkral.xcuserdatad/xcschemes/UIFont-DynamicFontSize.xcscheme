@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B99E072F181F3FF600D06E40"
                BuildableName = "UIFont-DynamicFontSize.app"
-               BlueprintName = "UIFont-DynamicFontSize"
-               ReferencedContainer = "container:UIFont-DynamicFontSize.xcodeproj">
+               BlueprintName = "UIFont-DynamicFontControl"
+               ReferencedContainer = "container:UIFont-DynamicFontControl.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B99E0750181F3FF600D06E40"
                BuildableName = "UIFont-DynamicFontSizeTests.xctest"
-               BlueprintName = "UIFont-DynamicFontSizeTests"
-               ReferencedContainer = "container:UIFont-DynamicFontSize.xcodeproj">
+               BlueprintName = "UIFont-DynamicFontControlTests"
+               ReferencedContainer = "container:UIFont-DynamicFontControl.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B99E072F181F3FF600D06E40"
             BuildableName = "UIFont-DynamicFontSize.app"
-            BlueprintName = "UIFont-DynamicFontSize"
-            ReferencedContainer = "container:UIFont-DynamicFontSize.xcodeproj">
+            BlueprintName = "UIFont-DynamicFontControl"
+            ReferencedContainer = "container:UIFont-DynamicFontControl.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B99E072F181F3FF600D06E40"
             BuildableName = "UIFont-DynamicFontSize.app"
-            BlueprintName = "UIFont-DynamicFontSize"
-            ReferencedContainer = "container:UIFont-DynamicFontSize.xcodeproj">
+            BlueprintName = "UIFont-DynamicFontControl"
+            ReferencedContainer = "container:UIFont-DynamicFontControl.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B99E072F181F3FF600D06E40"
             BuildableName = "UIFont-DynamicFontSize.app"
-            BlueprintName = "UIFont-DynamicFontSize"
-            ReferencedContainer = "container:UIFont-DynamicFontSize.xcodeproj">
+            BlueprintName = "UIFont-DynamicFontControl"
+            ReferencedContainer = "container:UIFont-DynamicFontControl.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
