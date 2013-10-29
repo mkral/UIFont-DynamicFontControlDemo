@@ -8,15 +8,15 @@ To Use:
 
 ####Import Header File
 
-  #import "UIFont+DynamicFontControl.h"
+    #import "UIFont+DynamicFontControl.h"
   
 #### Initialize a dynamic font with a UIFontTextStyle and a font name.
 
-  UIFont * dynamicFont = [UIFont preferredFontForTextStyle:UIFontTextStyleBody withFontName:@"AmericanTypewriter"];
+    UIFont * dynamicFont = [UIFont preferredFontForTextStyle:UIFontTextStyleBody withFontName:@"AmericanTypewriter"];
   
 #### Alternatively you can set your own scale value for the font size.
 
-  UIFont * scaledDynamicFont = [UIFont preferredFontForTextStyle:UIFontTextStyleBody withFontName:@"AmericanTypewriter" scale:2.0f];
+    UIFont * scaledDynamicFont = [UIFont preferredFontForTextStyle:UIFontTextStyleBody withFontName:@"AmericanTypewriter" scale:2.0f];
 
 
 ###Current Limitations
